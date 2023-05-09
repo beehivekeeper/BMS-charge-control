@@ -1,0 +1,1583 @@
+[
+    {
+        "id": "cad36e6245589639",
+        "type": "tab",
+        "label": "BMS",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "68090a397c4ccd69",
+        "type": "group",
+        "z": "cad36e6245589639",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "b2d117acf23869b3",
+            "ea6b81c49a91eb8e",
+            "ba7227b305bef2e8",
+            "0eaa0cda9876779c",
+            "55c7b9875e9ef248",
+            "414e9b572e8cd6bf",
+            "c1870170c64c54fd",
+            "b1628d48f655a4e1",
+            "ad8e405e0a4e73c1",
+            "31ee240b5fc3bc90",
+            "47b9603838f516f8",
+            "66988f2dad07bafd",
+            "7d16ad5173e824f3"
+        ],
+        "x": 54,
+        "y": 19,
+        "w": 812,
+        "h": 402
+    },
+    {
+        "id": "4bdbd6744599ae25",
+        "type": "group",
+        "z": "cad36e6245589639",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "6d512e8d9858aa9a",
+            "a56f8f6bb281dbe4",
+            "ccda8f64f5ae5b40",
+            "5a83786416587164",
+            "e1e78608a039da5c",
+            "72d81bb019c4d431",
+            "abdb31eda41ab5d6"
+        ],
+        "x": 914,
+        "y": 59,
+        "w": 572,
+        "h": 262
+    },
+    {
+        "id": "5a5b1f2f84266204",
+        "type": "group",
+        "z": "cad36e6245589639",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f0d6d52cbcb6f47a",
+            "d2b117353e5e7b3c",
+            "ff4e7f1989fc9da5",
+            "e50329a2dcd1ae1e",
+            "c55908f5733984da",
+            "6e2d3efc77583628",
+            "600e8bd6d2895ab6",
+            "c5fe9228c2361924"
+        ],
+        "x": 34,
+        "y": 439,
+        "w": 652,
+        "h": 222
+    },
+    {
+        "id": "f599c977754b123a",
+        "type": "group",
+        "z": "cad36e6245589639",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "06ef59b0df93c418",
+            "e64cf5df3d3772db",
+            "7f7615796029b1e4",
+            "fabae8c8fe387d7b",
+            "e6ab9d13b0126845",
+            "ed28c40e2569c8cc",
+            "0cd8ca917da7a599",
+            "2c2f92570e7f357a",
+            "8a541763c5b8e7ca"
+        ],
+        "x": 34,
+        "y": 679,
+        "w": 972,
+        "h": 302
+    },
+    {
+        "id": "a2d68a92dc060c6e",
+        "type": "group",
+        "z": "cad36e6245589639",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "923a834670a22030",
+            "d8bd5b92a52324c2",
+            "6b9192295fb7f1cd",
+            "10bb70a9cd60da04",
+            "e004ce115693c592",
+            "60daaa50fff137f3",
+            "3e3889c71b405d08"
+        ],
+        "x": 54,
+        "y": 1059,
+        "w": 672,
+        "h": 242
+    },
+    {
+        "id": "c810a8b0f0ea728b",
+        "type": "group",
+        "z": "cad36e6245589639",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "6b80f10a5091a27a",
+            "bcb7b6167b4cfd3a",
+            "fa107a0bd4bcfa93",
+            "a7cb0a3c44808b13",
+            "4fc3c2b21c9023c1",
+            "fe92f2b20594c22f",
+            "e7c9f0672c320d61",
+            "e280c72795bb4179",
+            "5f9322de568a5bdd",
+            "9ee4d8b567ae545b",
+            "5aa515e4f412ae56",
+            "86c74c510b2aa627",
+            "441a5d64dc1c4964"
+        ],
+        "x": 14,
+        "y": 1339,
+        "w": 1432,
+        "h": 302
+    },
+    {
+        "id": "b2d117acf23869b3",
+        "type": "victron-input-battery",
+        "z": "cad36e6245589639",
+        "g": "68090a397c4ccd69",
+        "service": "com.victronenergy.battery/1",
+        "path": "/System/MaxCellVoltage",
+        "serviceObj": {
+            "service": "com.victronenergy.battery/1",
+            "name": "SerialBattery(Daly)"
+        },
+        "pathObj": {
+            "path": "/System/MaxCellVoltage",
+            "type": "float",
+            "name": "System; maximum cell voltage (V DC)"
+        },
+        "initial": "",
+        "name": "Max Cell Volt",
+        "onlyChanges": false,
+        "x": 150,
+        "y": 240,
+        "wires": [
+            [
+                "0eaa0cda9876779c"
+            ]
+        ]
+    },
+    {
+        "id": "ea6b81c49a91eb8e",
+        "type": "victron-input-battery",
+        "z": "cad36e6245589639",
+        "g": "68090a397c4ccd69",
+        "service": "com.victronenergy.battery/1",
+        "path": "/System/MinCellVoltage",
+        "serviceObj": {
+            "service": "com.victronenergy.battery/1",
+            "name": "SerialBattery(Daly)"
+        },
+        "pathObj": {
+            "path": "/System/MinCellVoltage",
+            "type": "float",
+            "name": "System; minimum cell voltage (V DC)"
+        },
+        "initial": "",
+        "name": "Min Cell Volt",
+        "onlyChanges": false,
+        "x": 150,
+        "y": 120,
+        "wires": [
+            [
+                "ba7227b305bef2e8"
+            ]
+        ]
+    },
+    {
+        "id": "f0d6d52cbcb6f47a",
+        "type": "victron-input-battery",
+        "z": "cad36e6245589639",
+        "g": "5a5b1f2f84266204",
+        "service": "com.victronenergy.battery/1",
+        "path": "/Dc/0/Temperature",
+        "serviceObj": {
+            "service": "com.victronenergy.battery/1",
+            "name": "SerialBattery(Daly)"
+        },
+        "pathObj": {
+            "path": "/Dc/0/Temperature",
+            "type": "float",
+            "name": "Battery temperature (C)"
+        },
+        "initial": "",
+        "name": "Battery Temp",
+        "onlyChanges": false,
+        "x": 150,
+        "y": 580,
+        "wires": [
+            [
+                "6e2d3efc77583628"
+            ]
+        ]
+    },
+    {
+        "id": "ba7227b305bef2e8",
+        "type": "change",
+        "z": "cad36e6245589639",
+        "g": "68090a397c4ccd69",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "mincellvolt",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 690,
+        "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0eaa0cda9876779c",
+        "type": "change",
+        "z": "cad36e6245589639",
+        "g": "68090a397c4ccd69",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "maxcellvolt",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 690,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d2b117353e5e7b3c",
+        "type": "inject",
+        "z": "cad36e6245589639",
+        "g": "5a5b1f2f84266204",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "5",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 150,
+        "y": 520,
+        "wires": [
+            [
+                "ff4e7f1989fc9da5"
+            ]
+        ]
+    },
+    {
+        "id": "ff4e7f1989fc9da5",
+        "type": "function",
+        "z": "cad36e6245589639",
+        "g": "5a5b1f2f84266204",
+        "name": "cell deviation",
+        "func": "let mincellvolt = flow.get('mincellvolt')\nlet maxcellvolt = flow.get('maxcellvolt')\n\nmsg.payload = maxcellvolt - mincellvolt\n\nmsg.payload = msg.payload.toFixed(3)\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 520,
+        "wires": [
+            [
+                "e50329a2dcd1ae1e"
+            ]
+        ]
+    },
+    {
+        "id": "e50329a2dcd1ae1e",
+        "type": "ui_text",
+        "z": "cad36e6245589639",
+        "g": "5a5b1f2f84266204",
+        "group": "794d48ea81f9a452",
+        "order": 3,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "Deviation",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "x": 600,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "c55908f5733984da",
+        "type": "ui_text",
+        "z": "cad36e6245589639",
+        "g": "5a5b1f2f84266204",
+        "group": "794d48ea81f9a452",
+        "order": 4,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "Temp",
+        "format": "{{msg.payload}} F",
+        "layout": "col-center",
+        "className": "",
+        "x": 590,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "55c7b9875e9ef248",
+        "type": "victron-input-battery",
+        "z": "cad36e6245589639",
+        "g": "68090a397c4ccd69",
+        "service": "com.victronenergy.battery/1",
+        "path": "/System/MinVoltageCellId",
+        "serviceObj": {
+            "service": "com.victronenergy.battery/1",
+            "name": "SerialBattery(Daly)"
+        },
+        "pathObj": {
+            "path": "/System/MinVoltageCellId",
+            "type": "string",
+            "name": "System; ID of module with lowest cell voltage"
+        },
+        "initial": "",
+        "name": "Min Cell ID",
+        "onlyChanges": false,
+        "x": 140,
+        "y": 180,
+        "wires": [
+            [
+                "c1870170c64c54fd"
+            ]
+        ]
+    },
+    {
+        "id": "414e9b572e8cd6bf",
+        "type": "victron-input-battery",
+        "z": "cad36e6245589639",
+        "g": "68090a397c4ccd69",
+        "service": "com.victronenergy.battery/1",
+        "path": "/System/MaxVoltageCellId",
+        "serviceObj": {
+            "service": "com.victronenergy.battery/1",
+            "name": "SerialBattery(Daly)"
+        },
+        "pathObj": {
+            "path": "/System/MaxVoltageCellId",
+            "type": "string",
+            "name": "System; ID of module with highest cell voltage"
+        },
+        "initial": "",
+        "name": "Max Cell ID",
+        "onlyChanges": false,
+        "x": 150,
+        "y": 300,
+        "wires": [
+            [
+                "b1628d48f655a4e1"
+            ]
+        ]
+    },
+    {
+        "id": "c1870170c64c54fd",
+        "type": "change",
+        "z": "cad36e6245589639",
+        "g": "68090a397c4ccd69",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "mincellid",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 690,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6d512e8d9858aa9a",
+        "type": "inject",
+        "z": "cad36e6245589639",
+        "g": "4bdbd6744599ae25",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 1030,
+        "y": 160,
+        "wires": [
+            [
+                "5a83786416587164"
+            ]
+        ]
+    },
+    {
+        "id": "b1628d48f655a4e1",
+        "type": "change",
+        "z": "cad36e6245589639",
+        "g": "68090a397c4ccd69",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "maxcellid",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 690,
+        "y": 300,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a56f8f6bb281dbe4",
+        "type": "inject",
+        "z": "cad36e6245589639",
+        "g": "4bdbd6744599ae25",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 1030,
+        "y": 280,
+        "wires": [
+            [
+                "ccda8f64f5ae5b40"
+            ]
+        ]
+    },
+    {
+        "id": "ccda8f64f5ae5b40",
+        "type": "function",
+        "z": "cad36e6245589639",
+        "g": "4bdbd6744599ae25",
+        "name": "function 13",
+        "func": "let maxcellvolt = flow.get('maxcellvolt')\nlet maxcellid = flow.get('maxcellid')\n\nmsg.payload = '[' + maxcellid + ']' + maxcellvolt\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1210,
+        "y": 280,
+        "wires": [
+            [
+                "72d81bb019c4d431"
+            ]
+        ]
+    },
+    {
+        "id": "5a83786416587164",
+        "type": "function",
+        "z": "cad36e6245589639",
+        "g": "4bdbd6744599ae25",
+        "name": "function 12",
+        "func": "let mincellvolt = flow.get('mincellvolt')\nlet mincellid = flow.get('mincellid')\n\nmsg.payload = '[' + mincellid + ']' + mincellvolt\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1210,
+        "y": 160,
+        "wires": [
+            [
+                "e1e78608a039da5c"
+            ]
+        ]
+    },
+    {
+        "id": "e1e78608a039da5c",
+        "type": "ui_text",
+        "z": "cad36e6245589639",
+        "g": "4bdbd6744599ae25",
+        "group": "794d48ea81f9a452",
+        "order": 1,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "Min Cell",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "x": 1400,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "72d81bb019c4d431",
+        "type": "ui_text",
+        "z": "cad36e6245589639",
+        "g": "4bdbd6744599ae25",
+        "group": "794d48ea81f9a452",
+        "order": 2,
+        "width": "2",
+        "height": "1",
+        "name": "",
+        "label": "Max Cell",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "x": 1400,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "923a834670a22030",
+        "type": "victron-input-battery",
+        "z": "cad36e6245589639",
+        "g": "a2d68a92dc060c6e",
+        "service": "com.victronenergy.battery/279",
+        "path": "/Dc/0/Current",
+        "serviceObj": {
+            "service": "com.victronenergy.battery/279",
+            "name": "Battery Shunt"
+        },
+        "pathObj": {
+            "path": "/Dc/0/Current",
+            "type": "float",
+            "name": "Current (A)"
+        },
+        "initial": "",
+        "name": "Battery Current (A)",
+        "onlyChanges": false,
+        "x": 170,
+        "y": 1140,
+        "wires": [
+            [
+                "6b9192295fb7f1cd"
+            ]
+        ]
+    },
+    {
+        "id": "d8bd5b92a52324c2",
+        "type": "victron-input-battery",
+        "z": "cad36e6245589639",
+        "g": "a2d68a92dc060c6e",
+        "service": "com.victronenergy.battery/279",
+        "path": "/Soc",
+        "serviceObj": {
+            "service": "com.victronenergy.battery/279",
+            "name": "Battery Shunt"
+        },
+        "pathObj": {
+            "path": "/Soc",
+            "type": "float",
+            "name": "State of charge (%)"
+        },
+        "initial": "",
+        "name": "Battery SOC",
+        "onlyChanges": false,
+        "x": 150,
+        "y": 1200,
+        "wires": [
+            [
+                "10bb70a9cd60da04"
+            ]
+        ]
+    },
+    {
+        "id": "6b9192295fb7f1cd",
+        "type": "change",
+        "z": "cad36e6245589639",
+        "g": "a2d68a92dc060c6e",
+        "name": "flow.current",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Current",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 530,
+        "y": 1140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "10bb70a9cd60da04",
+        "type": "change",
+        "z": "cad36e6245589639",
+        "g": "a2d68a92dc060c6e",
+        "name": "flow.soc",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Soc",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 520,
+        "y": 1200,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e004ce115693c592",
+        "type": "victron-input-battery",
+        "z": "cad36e6245589639",
+        "g": "a2d68a92dc060c6e",
+        "service": "com.victronenergy.battery/279",
+        "path": "/Dc/0/Voltage",
+        "serviceObj": {
+            "service": "com.victronenergy.battery/279",
+            "name": "Battery Shunt"
+        },
+        "pathObj": {
+            "path": "/Dc/0/Voltage",
+            "type": "float",
+            "name": "Voltage (V)"
+        },
+        "initial": "",
+        "name": "Battery Voltage",
+        "onlyChanges": false,
+        "x": 160,
+        "y": 1260,
+        "wires": [
+            [
+                "60daaa50fff137f3"
+            ]
+        ]
+    },
+    {
+        "id": "60daaa50fff137f3",
+        "type": "change",
+        "z": "cad36e6245589639",
+        "g": "a2d68a92dc060c6e",
+        "name": "flow.voltage",
+        "rules": [
+            {
+                "t": "set",
+                "p": "Voltage",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 530,
+        "y": 1260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "06ef59b0df93c418",
+        "type": "inject",
+        "z": "cad36e6245589639",
+        "g": "f599c977754b123a",
+        "name": "default max charge amps",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "200",
+        "payloadType": "num",
+        "x": 190,
+        "y": 880,
+        "wires": [
+            [
+                "7f7615796029b1e4"
+            ]
+        ]
+    },
+    {
+        "id": "e64cf5df3d3772db",
+        "type": "change",
+        "z": "cad36e6245589639",
+        "g": "f599c977754b123a",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "maxamps",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 630,
+        "y": 880,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7f7615796029b1e4",
+        "type": "ui_slider",
+        "z": "cad36e6245589639",
+        "g": "f599c977754b123a",
+        "name": "",
+        "label": "Charge Amps",
+        "tooltip": "",
+        "group": "794d48ea81f9a452",
+        "order": 7,
+        "width": "8",
+        "height": "1",
+        "passthru": true,
+        "outs": "end",
+        "topic": "topic",
+        "topicType": "msg",
+        "min": "5",
+        "max": "200",
+        "step": "5",
+        "className": "",
+        "x": 420,
+        "y": 880,
+        "wires": [
+            [
+                "e64cf5df3d3772db"
+            ]
+        ]
+    },
+    {
+        "id": "6b80f10a5091a27a",
+        "type": "inject",
+        "z": "cad36e6245589639",
+        "g": "c810a8b0f0ea728b",
+        "name": "every sec",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 130,
+        "y": 1460,
+        "wires": [
+            [
+                "bcb7b6167b4cfd3a"
+            ]
+        ]
+    },
+    {
+        "id": "bcb7b6167b4cfd3a",
+        "type": "function",
+        "z": "cad36e6245589639",
+        "g": "c810a8b0f0ea728b",
+        "name": "calculate charging parameters",
+        "func": "\nlet Soc = flow.get('Soc')\nlet Current = flow.get('Current')\nlet Voltage = flow.get('Voltage')\nfloatvoltage = 27.6 //flow.get('floatv')\nbulkabsvoltage = 28.4\nlet maxamps = flow.get('maxamps')\nlet bmssoc = flow.get('bmssoc')\nmsg.flag = flow.get('flag')//values are 0 = float and 1 = abs\nmsg.maxChargeCurrent = flow.get('maxamps')\nmsg.syncswitch = flow.get('syncswitch')\n\n\nif(msg.flag != 0 && msg.flag != 1){\n    msg.flag = 1\n}\n\nif(msg.syncswitch == null){\n    msg.syncswitch = 1\n}\n\n\n//the following argument triggers a change from bulk/abs voltage to float\n//adjust the values in red to suit your needs\n\nif(Soc >= 99.9 && Voltage >= (bulkabsvoltage - .1) && Current <= 2){\n    msg.flag = 0\n}\n\n//the following 2 arguments are what triggers a change from float back\n//to bulk/abs voltage\nelse if(Current >= 5 && Soc <= 99.8){\n    msg.flag = 1\n}\n\nelse if(Soc <= 95){\n    msg.flag = 1\n}\n\nif(msg.flag == 0){\n    msg.maxChargeVoltage = floatvoltage\n}\n\nelse if(msg.flag == 1){\n    msg.maxChargeVoltage = bulkabsvoltage\n}\n\nif((Soc - bmssoc) >= 5){\n    msg.syncswitch = 1\n}\n\nif(msg.flag == 1 && (Soc - bmssoc) >= .1){\n    msg.syncswitch = 1\n}\n\nif(bmssoc == 100){\n    msg.syncswitch = 0\n}\n\nif(msg.syncswitch == 1){\n    msg.maxChargeVoltage = 28.6\n}\n\n//the following arguments create a stepped max charge current based on voltage\n//change the values in red to suit your needs or comment them out alltogether\n//if you wish not to have stepped current charging\nif(Voltage >= 27.9 && Voltage <= 28 && maxamps >= 60){\n    msg.maxChargeCurrent = 60\n}\n\nelse if(Voltage >= 28 && Voltage <= 28.1 && maxamps >= 40){\n    msg.maxChargeCurrent = 45\n}\n\nelse if(Voltage >= 28.1 && Voltage <= 28.2 && maxamps >= 30){\n    msg.maxChargeCurrent = 30\n}\n\nelse if(Voltage >= 28.2 && Voltage <= 28.3 && maxamps >= 20){\n    msg.maxChargeCurrent = 20\n}\n\nelse if(Voltage >= 28.3 && Voltage <= 28.4 && maxamps >= 10){\n    msg.maxChargeCurrent = 10\n}\n\nelse if(Voltage >= 28.4 && maxamps >= 5){\n    msg.maxChargeCurrent = 5\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 1460,
+        "wires": [
+            [
+                "4fc3c2b21c9023c1",
+                "fe92f2b20594c22f",
+                "fa107a0bd4bcfa93",
+                "86c74c510b2aa627"
+            ]
+        ]
+    },
+    {
+        "id": "4fc3c2b21c9023c1",
+        "type": "change",
+        "z": "cad36e6245589639",
+        "g": "c810a8b0f0ea728b",
+        "name": "flow.MaxChargeVoltage",
+        "rules": [
+            {
+                "t": "set",
+                "p": "MaxChargeVoltage",
+                "pt": "flow",
+                "to": "maxChargeVoltage",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "maxChargeVoltage",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 830,
+        "y": 1380,
+        "wires": [
+            [
+                "5f9322de568a5bdd"
+            ]
+        ]
+    },
+    {
+        "id": "fe92f2b20594c22f",
+        "type": "change",
+        "z": "cad36e6245589639",
+        "g": "c810a8b0f0ea728b",
+        "name": "flow.MaxChargeCurrent",
+        "rules": [
+            {
+                "t": "set",
+                "p": "MaxChargeCurrent",
+                "pt": "flow",
+                "to": "maxChargeCurrent",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "maxChargeCurrent",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 830,
+        "y": 1520,
+        "wires": [
+            [
+                "e280c72795bb4179"
+            ]
+        ]
+    },
+    {
+        "id": "e7c9f0672c320d61",
+        "type": "change",
+        "z": "cad36e6245589639",
+        "g": "c810a8b0f0ea728b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "flag",
+                "pt": "flow",
+                "to": "flag",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 790,
+        "y": 1600,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fa107a0bd4bcfa93",
+        "type": "rbe",
+        "z": "cad36e6245589639",
+        "g": "c810a8b0f0ea728b",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "flag",
+        "topi": "topic",
+        "x": 650,
+        "y": 1600,
+        "wires": [
+            [
+                "e7c9f0672c320d61"
+            ]
+        ]
+    },
+    {
+        "id": "5f9322de568a5bdd",
+        "type": "rbe",
+        "z": "cad36e6245589639",
+        "g": "c810a8b0f0ea728b",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 1050,
+        "y": 1380,
+        "wires": [
+            [
+                "9ee4d8b567ae545b"
+            ]
+        ]
+    },
+    {
+        "id": "e280c72795bb4179",
+        "type": "rbe",
+        "z": "cad36e6245589639",
+        "g": "c810a8b0f0ea728b",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 1050,
+        "y": 1520,
+        "wires": [
+            [
+                "5aa515e4f412ae56"
+            ]
+        ]
+    },
+    {
+        "id": "5aa515e4f412ae56",
+        "type": "victron-output-settings",
+        "z": "cad36e6245589639",
+        "g": "c810a8b0f0ea728b",
+        "service": "com.victronenergy.settings",
+        "path": "/Settings/SystemSetup/MaxChargeCurrent",
+        "serviceObj": {
+            "service": "com.victronenergy.settings",
+            "name": "Venus settings"
+        },
+        "pathObj": {
+            "path": "/Settings/SystemSetup/MaxChargeCurrent",
+            "type": "float",
+            "name": "DVCC system max charge current (A DC)",
+            "writable": true
+        },
+        "name": "DVCC max charge current (A)",
+        "onlyChanges": true,
+        "x": 1290,
+        "y": 1520,
+        "wires": []
+    },
+    {
+        "id": "9ee4d8b567ae545b",
+        "type": "victron-output-settings",
+        "z": "cad36e6245589639",
+        "g": "c810a8b0f0ea728b",
+        "service": "com.victronenergy.settings",
+        "path": "/Settings/SystemSetup/MaxChargeVoltage",
+        "serviceObj": {
+            "service": "com.victronenergy.settings",
+            "name": "Venus settings"
+        },
+        "pathObj": {
+            "path": "/Settings/SystemSetup/MaxChargeVoltage",
+            "type": "float",
+            "name": "Limit managed battery voltage (V DC)",
+            "writable": true
+        },
+        "name": "DVCC managed battery voltage",
+        "onlyChanges": true,
+        "x": 1290,
+        "y": 1380,
+        "wires": []
+    },
+    {
+        "id": "ad8e405e0a4e73c1",
+        "type": "comment",
+        "z": "cad36e6245589639",
+        "g": "68090a397c4ccd69",
+        "name": "get these values from the BMS. if using multiple BMS's try using dbus-virtual-battery driver or battery aggregator",
+        "info": "",
+        "x": 460,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "abdb31eda41ab5d6",
+        "type": "comment",
+        "z": "cad36e6245589639",
+        "g": "4bdbd6744599ae25",
+        "name": "display min/max cell voltages to dashboard",
+        "info": "",
+        "x": 1100,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "600e8bd6d2895ab6",
+        "type": "comment",
+        "z": "cad36e6245589639",
+        "g": "5a5b1f2f84266204",
+        "name": "get this value from BMS",
+        "info": "",
+        "x": 180,
+        "y": 620,
+        "wires": []
+    },
+    {
+        "id": "c5fe9228c2361924",
+        "type": "comment",
+        "z": "cad36e6245589639",
+        "g": "5a5b1f2f84266204",
+        "name": "display min/max cell deviation and battery pack temp to dashboard",
+        "info": "",
+        "x": 320,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "fabae8c8fe387d7b",
+        "type": "comment",
+        "z": "cad36e6245589639",
+        "g": "f599c977754b123a",
+        "name": "dynamic charging parameters input from dashboard",
+        "info": "",
+        "x": 270,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "3e3889c71b405d08",
+        "type": "comment",
+        "z": "cad36e6245589639",
+        "g": "a2d68a92dc060c6e",
+        "name": "get these values from the selected battery monitor in settings/system setup/battery monitor",
+        "info": "",
+        "x": 390,
+        "y": 1100,
+        "wires": []
+    },
+    {
+        "id": "a7cb0a3c44808b13",
+        "type": "comment",
+        "z": "cad36e6245589639",
+        "g": "c810a8b0f0ea728b",
+        "name": "the charging parameter calculations",
+        "info": "",
+        "x": 200,
+        "y": 1380,
+        "wires": []
+    },
+    {
+        "id": "31ee240b5fc3bc90",
+        "type": "victron-input-battery",
+        "z": "cad36e6245589639",
+        "g": "68090a397c4ccd69",
+        "service": "com.victronenergy.battery/1",
+        "path": "/Soc",
+        "serviceObj": {
+            "service": "com.victronenergy.battery/1",
+            "name": "SerialBattery(Daly)"
+        },
+        "pathObj": {
+            "path": "/Soc",
+            "type": "float",
+            "name": "State of charge (%)"
+        },
+        "initial": "",
+        "name": "BMS SOC",
+        "onlyChanges": false,
+        "x": 140,
+        "y": 360,
+        "wires": [
+            [
+                "47b9603838f516f8",
+                "66988f2dad07bafd",
+                "7d16ad5173e824f3"
+            ]
+        ]
+    },
+    {
+        "id": "47b9603838f516f8",
+        "type": "change",
+        "z": "cad36e6245589639",
+        "g": "68090a397c4ccd69",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "bmssoc",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 680,
+        "y": 360,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "66988f2dad07bafd",
+        "type": "ui_text",
+        "z": "cad36e6245589639",
+        "g": "68090a397c4ccd69",
+        "group": "794d48ea81f9a452",
+        "order": 7,
+        "width": "4",
+        "height": "1",
+        "name": "",
+        "label": "BMS SOC",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 390,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "e6ab9d13b0126845",
+        "type": "change",
+        "z": "cad36e6245589639",
+        "g": "f599c977754b123a",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "syncswitch",
+                "tot": "flow"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 340,
+        "y": 940,
+        "wires": [
+            [
+                "ed28c40e2569c8cc",
+                "a6b9ae1c7a7e893e"
+            ]
+        ]
+    },
+    {
+        "id": "ed28c40e2569c8cc",
+        "type": "ui_switch",
+        "z": "cad36e6245589639",
+        "g": "f599c977754b123a",
+        "name": "",
+        "label": "Sync SOC",
+        "tooltip": "",
+        "group": "794d48ea81f9a452",
+        "order": 8,
+        "width": "4",
+        "height": "1",
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "1",
+        "onvalueType": "num",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "0",
+        "offvalueType": "num",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 530,
+        "y": 940,
+        "wires": [
+            [
+                "8a541763c5b8e7ca"
+            ]
+        ]
+    },
+    {
+        "id": "0cd8ca917da7a599",
+        "type": "inject",
+        "z": "cad36e6245589639",
+        "g": "f599c977754b123a",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 150,
+        "y": 940,
+        "wires": [
+            [
+                "e6ab9d13b0126845"
+            ]
+        ]
+    },
+    {
+        "id": "2c2f92570e7f357a",
+        "type": "change",
+        "z": "cad36e6245589639",
+        "g": "f599c977754b123a",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "syncswitch",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 890,
+        "y": 940,
+        "wires": [
+            [
+                "448899f1c648481d"
+            ]
+        ]
+    },
+    {
+        "id": "86c74c510b2aa627",
+        "type": "change",
+        "z": "cad36e6245589639",
+        "g": "c810a8b0f0ea728b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "syncswitch",
+                "pt": "flow",
+                "to": "syncswitch",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 810,
+        "y": 1460,
+        "wires": [
+            [
+                "441a5d64dc1c4964"
+            ]
+        ]
+    },
+    {
+        "id": "441a5d64dc1c4964",
+        "type": "debug",
+        "z": "cad36e6245589639",
+        "g": "c810a8b0f0ea728b",
+        "name": "debug 60",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "syncswitch",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1020,
+        "y": 1460,
+        "wires": []
+    },
+    {
+        "id": "a6b9ae1c7a7e893e",
+        "type": "debug",
+        "z": "cad36e6245589639",
+        "name": "debug 61",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 520,
+        "y": 1020,
+        "wires": []
+    },
+    {
+        "id": "448899f1c648481d",
+        "type": "debug",
+        "z": "cad36e6245589639",
+        "name": "debug 62",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 800,
+        "y": 1020,
+        "wires": []
+    },
+    {
+        "id": "8a541763c5b8e7ca",
+        "type": "rbe",
+        "z": "cad36e6245589639",
+        "g": "f599c977754b123a",
+        "name": "",
+        "func": "rbe",
+        "gap": "",
+        "start": "",
+        "inout": "out",
+        "septopics": true,
+        "property": "payload",
+        "topi": "topic",
+        "x": 690,
+        "y": 940,
+        "wires": [
+            [
+                "2c2f92570e7f357a"
+            ]
+        ]
+    },
+    {
+        "id": "6e2d3efc77583628",
+        "type": "unit-converter",
+        "z": "cad36e6245589639",
+        "g": "5a5b1f2f84266204",
+        "category": "temperature",
+        "inputUnit": "C",
+        "outputUnit": "F",
+        "inputField": "payload",
+        "outputField": "payload",
+        "inputFieldType": "msg",
+        "outputFieldType": "msg",
+        "roundOutputField": true,
+        "outputFieldDecimals": "1",
+        "statusType": "none",
+        "name": "",
+        "x": 380,
+        "y": 580,
+        "wires": [
+            [
+                "c55908f5733984da"
+            ]
+        ]
+    },
+    {
+        "id": "7d16ad5173e824f3",
+        "type": "debug",
+        "z": "cad36e6245589639",
+        "g": "68090a397c4ccd69",
+        "name": "debug 63",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 380,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "794d48ea81f9a452",
+        "type": "ui_group",
+        "name": "BMS",
+        "tab": "f38e85f43a8922c9",
+        "order": 1,
+        "disp": true,
+        "width": "8",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "f38e85f43a8922c9",
+        "type": "ui_tab",
+        "name": "BMS",
+        "icon": "dashboard",
+        "order": 3,
+        "disabled": false,
+        "hidden": false
+    }
+]
